@@ -4,3 +4,4 @@ scikit-learn>=1.5
 requests>=2.32
 streamlit>=1.38
 plotly>=5.23
+statsmodels>=0.14.2
